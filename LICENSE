@@ -1,0 +1,333 @@
+SWI COMMUNITY & LEGACY LICENCE
+
+Version 1.0
+
+Copyright © 2026 Keletso Ronald Mosidila / Trusts Motion.
+
+All rights reserved except for the permissions expressly granted by this licence.
+
+Structured Workflow Intelligence (SWI), including its source code, documentation, module architecture as expressed in the repository, manuals, tests, examples, schemas, diagrams, and associated original materials, is made available under the terms of this licence.
+
+---
+
+1. Purpose
+
+This licence is intended to permit public research, education, learning, experimentation, review, interoperability work, and non-commercial development while preserving the copyright, attribution, provenance, and historical legacy of the original SWI work.
+
+The availability of SWI under this licence does not constitute a transfer of ownership.
+
+The copyright holder retains ownership of the original copyrighted materials covered by this licence.
+
+---
+
+2. Copyright
+
+Copyright in the original SWI materials remains with the respective copyright holder identified in the repository and applicable source files.
+
+Unless expressly stated otherwise:
+
+Copyright © 2026 Keletso Ronald Mosidila / Trusts Motion.
+
+Nothing in this licence transfers copyright ownership to a user, contributor, fork, organisation, company, institution, or other recipient.
+
+A person receiving permission to use SWI receives a licence to use the applicable materials, not ownership of those materials.
+
+---
+
+3. Permission to Use
+
+Subject to the conditions of this licence, permission is granted to any person obtaining a copy of the covered SWI materials to:
+
+- view the source code;
+- study the implementation;
+- execute the software for non-commercial purposes;
+- reproduce the software for research, education, testing, and evaluation;
+- modify the software for non-commercial purposes;
+- create non-commercial derivative works;
+- create forks for research, education, testing, and development;
+- publish research or technical analysis concerning the software;
+- integrate the software into non-commercial research or educational projects;
+- reproduce relevant documentation for non-commercial educational or research purposes.
+
+This permission is granted worldwide, subject to applicable law and the restrictions contained in this licence.
+
+---
+
+4. Non-Commercial Restriction
+
+The covered SWI materials may not be used for commercial purposes without prior written authorization from the copyright holder or an authority expressly designated by the copyright holder.
+
+Commercial use includes, but is not limited to:
+
+- selling the software;
+- selling products or services substantially based on the covered SWI implementation;
+- offering SWI functionality as a paid service;
+- incorporating covered SWI code into a commercial product;
+- using covered SWI implementation as a commercial backend or infrastructure component;
+- licensing the covered SWI materials to customers for commercial exploitation;
+- using the covered SWI implementation to provide paid services to third parties;
+- commercially distributing modified versions;
+- monetising a hosted or managed implementation substantially incorporating covered SWI code.
+
+Commercial use requires separate written authorization.
+
+Authorization may be granted on conditions determined by the copyright holder.
+
+Nothing in this section prevents a person from conducting ordinary non-commercial research, education, testing, review, or experimentation merely because the person or organisation also conducts commercial activities elsewhere.
+
+---
+
+5. Written Authorization
+
+Commercial authorization must be granted in writing.
+
+A public statement, repository fork, issue comment, informal discussion, social-media post, presentation, or verbal statement does not by itself constitute commercial authorization unless it expressly identifies the intended commercial permission and is issued by an authorized representative.
+
+Commercial authorization may specify permitted product or service, modules, territory, duration, distribution model, attribution, commercial terms, contribution requirements, security or governance requirements, and other conditions.
+
+---
+
+6. Attribution
+
+Any permitted copy, fork, modification, derivative work, or redistribution of covered SWI materials must retain reasonable attribution to the original SWI work.
+
+At minimum, the following notice must remain where technically and reasonably practicable:
+
+Structured Workflow Intelligence (SWI)
+Original work by Keletso Ronald Mosidila / Trusts Motion
+Copyright © 2026 Keletso Ronald Mosidila / Trusts Motion
+Licensed under the SWI Community & Legacy Licence.
+
+Where a modified version is distributed, it must also clearly identify that modifications have been made.
+
+A modified or derivative implementation must not represent itself as the unchanged original SWI repository.
+
+---
+
+7. Preservation of Notices
+
+The following must not be intentionally removed from a permitted copy or derivative work:
+
+- copyright notices;
+- licence notices;
+- attribution notices;
+- provenance notices;
+- author identification;
+- historical development notices;
+- notices identifying third-party material;
+- notices identifying modifications;
+- applicable repository attribution.
+
+Where the technical format makes preservation inside the executable impractical, the notices must be retained in accompanying documentation or an equivalent location.
+
+---
+
+8. Provenance and Legacy
+
+SWI is an evolving body of work.
+
+Copies, forks, derivatives, adaptations, and implementations based on the covered materials must not intentionally erase or falsify the documented provenance of the original SWI work.
+
+A person may describe their own contributions, modifications, research, or independent implementation as their own work.
+
+However, such descriptions must not falsely state or imply that the original SWI materials were independently created by that person when they were derived from the covered repository.
+
+The existence of a fork does not transfer authorship of the original repository.
+
+The existence of a derivative implementation does not transfer copyright in the original materials.
+
+---
+
+9. Independent Contributions
+
+This licence does not prevent a contributor from owning copyright in original material that the contributor independently creates.
+
+Where a contribution is incorporated into SWI, the applicable contribution terms, repository notices, and copyright statements should identify the contribution appropriately.
+
+Contributors must not knowingly submit material that they do not have the right to contribute.
+
+Third-party components remain subject to their own applicable licences.
+
+Nothing in this licence purports to transfer ownership of third-party material to the SWI copyright holder.
+
+---
+
+10. Independent Implementations
+
+This licence does not claim ownership over work that is genuinely created independently and without copying protected SWI expression.
+
+An independently developed implementation may have its own copyright and licence.
+
+However, copying covered SWI source code, documentation, tests, diagrams, manuals, or other protected expression remains subject to this licence and applicable copyright law.
+
+---
+
+11. Originality and Attribution
+
+The recipient must not knowingly make a false representation that the original SWI repository, its original documentation, or its original copyrighted implementation was authored by the recipient or by another party when the material was obtained from the SWI project.
+
+A recipient may identify their own implementation, research, modifications, experiments, extensions, tests, integrations, and independent discoveries, distinguishing those contributions from the original SWI work.
+
+---
+
+12. Historical Record
+
+Where repository history, commit history, release records, archived documentation, or other provenance records are available, users are encouraged to preserve those records when redistributing or documenting substantial derivatives.
+
+The historical record is part of the project's technical provenance.
+
+Nothing in this licence requires preservation of repository history where doing so is technically impossible, but removal of historical information must not be used to falsely represent authorship.
+
+---
+
+13. Research and Publication
+
+Non-commercial researchers may study, test, critique, reproduce, and discuss SWI.
+
+Researchers may publish findings concerning SWI, including errors, limitations, vulnerabilities, failed or successful experiments, alternative implementations, performance, security, and reproducibility findings.
+
+Publication of research does not require approval from the copyright holder unless the researcher is otherwise using covered material in a manner restricted by this licence.
+
+Researchers should provide appropriate attribution and distinguish their conclusions from claims made by the original project.
+
+---
+
+14. No Endorsement
+
+Use of SWI does not imply endorsement by Keletso Ronald Mosidila or Trusts Motion.
+
+A derivative work, product, research result, or commercial implementation must not use the SWI name, the author's name, or Trusts Motion branding in a manner that falsely suggests official endorsement, partnership, certification, approval, or authorship.
+
+Separate written permission is required for use of protected branding or trademarks where applicable.
+
+---
+
+15. No Certification
+
+Permission to use SWI does not constitute security certification, safety certification, regulatory approval, compliance certification, production approval, accuracy certification, endorsement, verification of factual claims, or verification of third-party implementations.
+
+A person or organisation using SWI is responsible for independently evaluating whether its implementation is suitable for its intended purpose.
+
+---
+
+16. No Warranty
+
+THE SOFTWARE AND ASSOCIATED MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, AVAILABILITY, ACCURACY, OR RELIABILITY.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL OPERATE WITHOUT INTERRUPTION, BE ERROR-FREE, BE SECURE IN EVERY ENVIRONMENT, MEET A PARTICULAR PERFORMANCE OR REGULATORY REQUIREMENT, PRODUCE CORRECT RESULTS FOR EVERY USE CASE, OR REMAIN COMPATIBLE WITH FUTURE SYSTEMS.
+
+---
+
+17. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE, INABILITY TO USE, MODIFICATION, DISTRIBUTION, OR IMPLEMENTATION OF THE COVERED MATERIALS.
+
+NOTHING IN THIS LICENCE EXCLUDES OR LIMITS LIABILITY WHERE SUCH EXCLUSION OR LIMITATION IS PROHIBITED BY APPLICABLE LAW.
+
+---
+
+18. Compliance With Law
+
+Nothing in this licence grants permission to violate applicable law.
+
+Recipients remain responsible for complying with laws and regulations applicable to their use, modification, distribution, deployment, research, or commercialization of the software.
+
+---
+
+19. Termination
+
+The permissions granted by this licence automatically terminate if a recipient materially violates its terms.
+
+Upon termination, the recipient must cease the activity that is no longer authorized.
+
+Termination does not automatically invalidate rights lawfully exercised before termination where applicable law preserves those rights.
+
+The copyright holder may separately grant written permission to cure or continue use following a violation.
+
+---
+
+20. Contributions and Future Versions
+
+The copyright holder may publish future versions of this licence.
+
+Unless a repository or release expressly states otherwise, material already distributed under this version remains governed by the licence applicable to that distribution.
+
+Contributors should clearly identify the licence under which their contributions are made.
+
+---
+
+21. Compatibility With Other Licences
+
+This licence does not automatically grant permission to combine covered SWI materials with third-party software whose licence prohibits such combination.
+
+Users are responsible for determining licence compatibility before redistribution.
+
+Where a third-party component is governed by a separate licence, that licence remains applicable to that component.
+
+---
+
+22. Trademarks and Project Identity
+
+"Structured Workflow Intelligence", "SWI", "Trusts Motion", associated logos, names, and other project identifiers may have rights separate from copyright.
+
+This licence does not automatically grant trademark rights.
+
+Use of project names for factual attribution, academic reference, technical discussion, or identification of the original project is permitted where lawful and not misleading.
+
+Use suggesting official sponsorship, certification, endorsement, or partnership requires appropriate authorization.
+
+---
+
+23. Interpretation
+
+If any provision of this licence is found to be unenforceable under applicable law, that provision shall be interpreted or limited to the minimum extent necessary, while the remaining provisions continue to apply to the extent permitted by law.
+
+Nothing in this licence is intended to restrict rights that cannot lawfully be restricted.
+
+---
+
+24. Ownership and Permission
+
+For avoidance of doubt:
+
+COPYRIGHT OWNERSHIP IS NOT TRANSFERRED BY THIS LICENCE.
+
+PERMISSION TO USE IS NOT OWNERSHIP.
+
+A FORK IS NOT A TRANSFER OF THE ORIGINAL PROJECT.
+
+A DERIVATIVE WORK DOES NOT ERASE THE PROVENANCE OF THE ORIGINAL WORK.
+
+AN INDEPENDENT IMPLEMENTATION IS NOT AUTOMATICALLY OWNED BY THE ORIGINAL AUTHOR.
+
+The licence exists to permit use while preserving the distinction between original authorship, later contributions, derivative works, and genuinely independent implementations.
+
+---
+
+25. Recommended Attribution
+
+Where practical, users are encouraged to retain the following attribution:
+
+Structured Workflow Intelligence (SWI)
+Original work by Keletso Ronald Mosidila / Trusts Motion
+Copyright © 2026 Keletso Ronald Mosidila / Trusts Motion
+Licensed under the SWI Community & Legacy Licence v1.0.
+Modifications and derivative work, if any, are identified separately.
+
+---
+
+26. Contact for Commercial Authorization
+
+Requests for commercial authorization should be directed to the current authorized representative identified by the official SWI / Trusts Motion repository.
+
+Commercial authorization must be obtained before commercial use begins.
+
+---
+
+END OF LICENCE
+
+Copyright © 2026 Keletso Ronald Mosidila / Trusts Motion.
+
+Original authorship and project provenance should be preserved.
+
+NOTE: This is not an MIT licence. The non-commercial restriction and attribution/provenance terms are intentional. Independent legal review (including under Botswana law where applicable) is recommended before relying on this text for enforcement.
